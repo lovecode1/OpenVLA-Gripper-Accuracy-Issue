@@ -12,4 +12,4 @@ Please see attached documents:
 3. [Episode data action list](https://github.com/lovecode1/OpenVLA-Gripper-Accuracy-Issue/blob/main/fractal20220817_data_original_actions.csv)
 
 4. [Predicted actions](https://github.com/lovecode1/OpenVLA-Gripper-Accuracy-Issue/blob/main/fractal20220817_data_predicted_actions.csv)
-5. 
+5. [Python script to run the predict](https://github.com/lovecode1/OpenVLA-Gripper-Accuracy-Issue/blob/main/run_predict.py)
