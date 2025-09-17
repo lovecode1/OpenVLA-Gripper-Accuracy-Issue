@@ -1,7 +1,7 @@
 
 # OpenVLA Gripper Predict is 46% off:
-I took the first episode from the fractal20220817 data and ran predict with OpenVLA and got results for the gripper that are 46% off.
-This is critical since if the gripper opens or closes in the wrong moment the whole movement will fail.
+I took the first episode from the fractal20220817 dataset and ran predictions with OpenVLA. The gripper results were off by 46%. 
+This is critical because if the gripper opens or closes at the wrong moment, the entire movement will fail.
 
 Please see attached documents:
 
